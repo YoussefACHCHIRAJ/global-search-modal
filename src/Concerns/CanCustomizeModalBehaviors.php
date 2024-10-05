@@ -27,7 +27,6 @@ trait CanCustomizeModalBehaviors
         return $this;
     }
 
-    
     public function getPosition(){
         return $this->position;
     }
